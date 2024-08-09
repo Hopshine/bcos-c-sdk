@@ -1,7 +1,7 @@
 {
   "name": "fisco-bcos-c-sdk",
   "version-string": "3.7.0",
-  "homepage": "https://github.com/FISCO-BCOS/c-sdk",
+  "homepage": "https://github.com/FISCO-BCOS/bcos-c-sdk",
   "description": "FISCO BCOS C SDK",
   "dependencies": [
     {
